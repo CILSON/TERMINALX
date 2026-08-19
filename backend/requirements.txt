@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.1
+redis[hiredis]==5.2.1
+apscheduler==3.10.4
+pydantic==2.10.4
+pydantic-settings==2.7.1
+aiohttp==3.11.11
+google-generativeai==0.8.4
+python-dotenv==1.0.1
+websockets==14.1
+yfinance>=0.2.40
+feedparser>=6.0.11
