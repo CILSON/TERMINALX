@@ -6,6 +6,31 @@ TerminalX provides real-time market snapshots, an AI intelligence panel, economi
 
 ---
 
+## 📸 TerminalX
+
+<p align="center">
+  <img src="frontend/public/LND.png" alt="TerminalX Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <em>A Bloomberg-inspired financial terminal with real-time market intelligence, AI analysis, news, and economic data.</em>
+</p>
+
+### Market Intelligence
+
+<p align="center">
+  <img src="frontend/public/MKTHM.png" alt="TerminalX Market Heatmap" width="49%">
+  <img src="frontend/public/AI.png" alt="TerminalX AI Intelligence" width="49%">
+</p>
+
+### Financial Tools
+
+<p align="center">
+  <img src="frontend/public/EC.png" alt="TerminalX Economic Calendar" width="100%">
+</p>
+
+---
+
 ## 📊 State of the Project
 
 TerminalX is currently a **working prototype** intended to demonstrate modern web design applied to complex financial interfaces.
